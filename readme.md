@@ -27,25 +27,52 @@ password: root
 python manage.py runserver  
 ```
 
-# Postman
+# Admin UI
 ## Homepage  
-<img src="assets/img/homepage.png" width="100%">   
 
+<img src="assets/img/adminUI/homepage.png" width="100%">   
+
+## Admin Dashboard    
+
+<img src="assets/img/adminUI/admin_dashboard.png" width="100%">   
+
+## Create item  
+
+<img src="assets/img/adminUI/create.png" width="100%">   
+
+## Read item  
+
+<img src="assets/img/adminUI/read.png" width="100%">   
+
+## Update item  
+
+<img src="assets/img/adminUI/update.png" width="100%">   
+
+## Delete item  
+
+<img src="assets/img/adminUI/delete.png" width="100%">   
+
+# User UI
 ## Homepage  
-<img src="assets/img/admin_dashboard.png" width="100%">   
 
-## Create  
-<img src="assets/img/create.png" width="100%">   
+<img src="assets/img/userUI/homepage.png" width="100%">   
 
-## Read  
-<img src="assets/img/read.png" width="100%">   
+## Create item  
 
-## Update  
-<img src="assets/img/update.png" width="100%">   
+<img src="assets/img/userUI/createitem.png" width="100%">   
 
-## Delete  
-<img src="assets/img/delete.png" width="100%">   
+## Read item  
+
+<img src="assets/img/userUI/readitem.png" width="100%">   
+
+## Update item  
+
+<img src="assets/img/userUI/updateitem.png" width="100%">   
+
+## Delete item  
+
+<img src="assets/img/userUI/deleteitem.png" width="100%">   
 
 
-Tutorial that Im following to achieve this project  
+# Tutorial that Im following to achieve this project  
 [Full CRUD with Django 2.0 in 30 minutes ( 2018 )](https://www.youtube.com/watch?v=Kf9KB_TZY5U&t=1238s)  
