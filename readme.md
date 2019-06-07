@@ -22,16 +22,16 @@ password: root
 * Update item  
 * Delete item  
   
+# Bonus Operations  
+
+* Admin Dashboard  
+
 # Usage  
 ```
 python manage.py runserver  
 ```
 
 # Admin UI
-## Homepage  
-
-<img src="assets/img/adminUI/homepage.png" width="100%">   
-
 ## Admin Dashboard    
 
 <img src="assets/img/adminUI/admin_dashboard.png" width="100%">   
